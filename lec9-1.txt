@@ -1,0 +1,15 @@
+functions examples
+
+
+what are the different ways in which functions can ebe implemented while coding 
+how are tge inputs actually passed into the functions
+
+
+int compare(int a , int b)
+{
+int c;
+if(a>b)
+{
+c=a;
+}
+}
